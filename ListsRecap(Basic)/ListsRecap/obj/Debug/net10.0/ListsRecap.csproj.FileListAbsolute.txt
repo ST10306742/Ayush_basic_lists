@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\ListsRecap(Basic)\ListsRecap\bin\Debug\net10.0\ListsRecap.exe
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\ListsRecap(Basic)\ListsRecap\bin\Debug\net10.0\ListsRecap.deps.json
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\ListsRecap(Basic)\ListsRecap\bin\Debug\net10.0\ListsRecap.runtimeconfig.json
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\ListsRecap(Basic)\ListsRecap\bin\Debug\net10.0\ListsRecap.dll
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\ListsRecap(Basic)\ListsRecap\bin\Debug\net10.0\ListsRecap.pdb
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\ListsRecap(Basic)\ListsRecap\obj\Debug\net10.0\ListsRecap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\ListsRecap(Basic)\ListsRecap\obj\Debug\net10.0\ListsRecap.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\ListsRecap(Basic)\ListsRecap\obj\Debug\net10.0\ListsRecap.AssemblyInfo.cs
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\ListsRecap(Basic)\ListsRecap\obj\Debug\net10.0\ListsRecap.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\ListsRecap(Basic)\ListsRecap\obj\Debug\net10.0\ListsRecap.dll
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\ListsRecap(Basic)\ListsRecap\obj\Debug\net10.0\refint\ListsRecap.dll
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\ListsRecap(Basic)\ListsRecap\obj\Debug\net10.0\ListsRecap.pdb
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\ListsRecap(Basic)\ListsRecap\obj\Debug\net10.0\ListsRecap.genruntimeconfig.cache
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\ListsRecap(Basic)\ListsRecap\obj\Debug\net10.0\ref\ListsRecap.dll
